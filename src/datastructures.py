@@ -9,7 +9,7 @@ update this file to implement the following already declared methods:
 from random import randint
 
 class FamilyStructure:
-    def __init__(self, last_name):
+    def __init__(self, last_name,password):
         self.last_name = last_name
 
         # example list of members
